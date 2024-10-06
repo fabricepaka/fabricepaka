@@ -6,7 +6,7 @@
 <!-- Titre de la page -->
 <h1 align="center">Bonjour, je suis Paka Fabrice Essinam 👋</h1>
 <p align="center">
-  <em>Data Scientist en reconversion avec une expertise en Nanosciences et Nanotechnologies.</em>
+  <em>Data Scientist en reconversion avec une expertise en physique theorique.</em>
 </p>
 
 <!-- Badges sociaux -->
@@ -19,13 +19,13 @@
 <!-- Présentation rapide -->
 ### À propos de moi
 
-Je suis actuellement en reconversion en Data Science après avoir obtenu un **Master en Nanosciences et Nanotechnologies** à l'Université Grenoble Alpes. Passionné par l'analyse de données et le développement de solutions d'intelligence artificielle, je me spécialise dans la création de modèles prédictifs pour résoudre des problèmes complexes. 
+Je suis actuellement en reconversion en Data Science après avoir obtenu un  **Master en Nanosciences et Nanotechnologies**  à l'Université Grenoble Alpes. Passionné par l'analyse de données et le développement de solutions d'intelligence artificielle, je me spécialise dans la création de modèles prédictifs pour résoudre des problèmes complexes. 
 
 Voici quelques points clés de mon parcours :
 
-- 🔬 **Formation scientifique** : Master en Nanosciences et Nanotechnologies.
+- 🔬 **Formation scientifique** : Master en Nanosciences et Nanotechnologies, Master en physique theorique
 - 💻 **Data Science** : Expertise en **Python**, **Machine Learning**, et **Data Visualisation**.
-- 🤖 **Machine Learning & AI** : NLP, classification, clustering, détection d'anomalies.
+- 🤖 **Machine Learning & AI** : NLP, classification, regression, clustering, détection d'anomalies, reduction de dimension, deep learning, time series models, .
 - 🎯 **Objectif** : Contribuer à des projets innovants en exploitant les données pour des avancées technologiques.
 
 ---
