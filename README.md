@@ -53,18 +53,24 @@ Voici quelques projets intéressants que j'ai réalisés dans le cadre de ma for
 
 Utilisation de Python et Scikit-learn pour prédire les pannes dans des systèmes physiques à partir de données expérimentales.
 Code source du projet.
+
 📊 Analyse des données climatiques pour la détection d'anomalies :
 
 Implémentation de techniques d'apprentissage non-supervisé pour identifier des anomalies dans des données environnementales.
 Code source du projet.
+
 📝 Traitement du langage naturel (NLP) :
 
 Développement d'un modèle NLP pour la classification automatique de textes.
 Code source du projet.
+
 📫 Contactez-moi
 Si vous avez des questions ou souhaitez discuter de projets de Data Science, n'hésitez pas à me contacter !
 
 📧 Email : votre.email@exemple.com
+
 💼 LinkedIn : Votre profil LinkedIn
+
 💻 GitHub : Votre profil GitHub
+
 <p align="center"> <em>"L'analyse des données est au cœur de l'innovation moderne. Ensemble, nous pouvons créer des solutions impactantes pour demain."</em> </p> <p align="center"> <img src="https://example.com/footer-image.jpg" alt="Footer Image" width="100%" /> </p> 
