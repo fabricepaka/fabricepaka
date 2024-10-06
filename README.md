@@ -1,6 +1,6 @@
 <!-- Bannière ou image en en-tête -->
 <p align="center">
-  <img src="https://github.com/fabricepaka/images/blob/main/banner3.webp" alt="Banner Image" width="100%" />
+  <img src="https://github.com/fabricepaka/images/blob/main/banner1.webp" alt="Banner Image" width="100%" />
 </p>
 
 <!-- Titre de la page -->
