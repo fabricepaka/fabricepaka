@@ -32,15 +32,7 @@ Voici quelques points clés de mon parcours :
 
 ### 🔧 Technologies et Outils
 
-```json
-{
-  "Langages": ["Python", "SQL"],
-  "Outils de visualisation": ["Matplotlib", "Seaborn", "Power BI"],
-  "Machine Learning": ["Scikit-learn", "NumPy", "Pandas"],
-  "Version control": ["Git", "GitHub"],
-  "Bases de données": ["SQL", "NoSQL"]
-}
-```
+
 <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" /> <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="SQL Badge" /> <img src="https://img.shields.io/badge/Machine%20Learning-F76B07?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning Badge" /> <img src="https://img.shields.io/badge/Data%20Science-4B0082?style=for-the-badge&logo=Data-Science&logoColor=white" alt="Data Science Badge" /> <img src="https://img.shields.io/badge/Visualisation-6495ED?style=for-the-badge&logo=visualisation&logoColor=white" alt="Data Visualisation Badge" /> </p>
 
 
