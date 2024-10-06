@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/fabrice-paka-junior-data-scientist-dataanalyst-alternance2025-toutelafrance-teletravail/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:fabricepaka10@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/votreprofil"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/fabricepaka/fabricepaka/"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white" alt="GitHub"></a>
 </p>
 
 <!-- Présentation rapide -->
@@ -45,32 +45,14 @@ Voici quelques points clés de mon parcours :
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" hauteur="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-📂 Projets
-
-Voici quelques projets intéressants que j'ai réalisés dans le cadre de ma formation et de mes expériences :
-
-🧠 Modèle de prédiction des défaillances :
-
-Utilisation de Python et Scikit-learn pour prédire les pannes dans des systèmes physiques à partir de données expérimentales.
-Code source du projet.
-
-📊 Analyse des données climatiques pour la détection d'anomalies :
-
-Implémentation de techniques d'apprentissage non-supervisé pour identifier des anomalies dans des données environnementales.
-Code source du projet.
-
-📝 Traitement du langage naturel (NLP) :
-
-Développement d'un modèle NLP pour la classification automatique de textes.
-Code source du projet.
 
 📫 Contactez-moi
 Si vous avez des questions ou souhaitez discuter de projets de Data Science, n'hésitez pas à me contacter !
 
-📧 Email : votre.email@exemple.com
+📧 Email : fabricepaka10@gmail.com
 
-💼 LinkedIn : Votre profil LinkedIn
+💼 LinkedIn : Fabrice PAKA
 
-💻 GitHub : Votre profil GitHub
+💻 GitHub : fabricepaka
 
 <p align="center"> <em>"L'analyse des données est au cœur de l'innovation moderne. Ensemble, nous pouvons créer des solutions impactantes pour demain."</em> </p> <p align="center"> <img src="https://example.com/footer-image.jpg" alt="Footer Image" width="100%" /> </p> 
