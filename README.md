@@ -9,12 +9,7 @@
   <em>Data Scientist en reconversion avec une expertise en physique theorique.</em>
 </p>
 
-<!-- Badges sociaux -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/fabrice-paka-junior-data-scientist-dataanalyst-alternance2025-toutelafrance-teletravail/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:fabricepaka10@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/fabricepaka/fabricepaka/"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white" alt="GitHub"></a>
-</p>
+
 
 <!-- Présentation rapide -->
 ### À propos de moi
