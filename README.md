@@ -38,10 +38,11 @@ Voici quelques points clés de mon parcours :
 
 ---
 
-📫 Contactez-moi
+📫 <h3 align="left">Contactez-moi :</h3>
+
 Si vous avez des questions ou souhaitez discuter de projets de Data Science, n'hésitez pas à me contacter !
 
-<h3 align="left">Contactez-moi :</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/fabrice-paka-junior-data-scientist-dataanalyst-alternance2025-toutelafrance-teletravail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/fabrice-paka-junior-data-scientist-dataanalyst-alternance2025-toutelafrance-teletravail" height="30" width="40" /></a>
 </p>
