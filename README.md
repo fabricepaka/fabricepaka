@@ -51,5 +51,5 @@ Si vous avez des questions ou souhaitez discuter de projets de Data Science, n'h
 </p>
 
 
-<p align="center"> <em>"L'analyse des données est au cœur de l'innovation moderne. Ensemble, nous pouvons créer des solutions impactantes pour demain."</em> </p> <p align="center"> <img src="https://example.com/footer-image.jpg" alt="Footer Image" width="100%" /> </p> 
+<p align="center"> <em>"L'analyse des données est au cœur de l'innovation moderne. Ensemble, nous pouvons créer des solutions impactantes pour demain."</em> </p> 
 
