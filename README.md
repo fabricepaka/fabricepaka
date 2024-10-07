@@ -48,15 +48,13 @@ Voici quelques points clés de mon parcours :
 Si vous avez des questions ou souhaitez discuter de projets de Data Science, n'hésitez pas à me contacter !
 
 
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/fabrice-paka-junior-data-scientist-dataanalyst-alternance2025-toutelafrance-teletravail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/fabrice-paka-junior-data-scientist-dataanalyst-alternance2025-toutelafrance-teletravail" height="30" width="40" /></a>
+<!-- Badges sociaux -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/fabrice-paka-junior-data-scientist-dataanalyst-alternance2025-toutelafrance-teletravail/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:fabricepaka10@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/fabricepaka/fabricepaka/"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white" alt="GitHub"></a>
 </p>
 
-📧 Email : fabricepaka10@gmail.com
-
-💼 LinkedIn : Fabrice PAKA
-
-💻 GitHub : fabricepaka
 
 <p align="center"> <em>"L'analyse des données est au cœur de l'innovation moderne. Ensemble, nous pouvons créer des solutions impactantes pour demain."</em> </p> <p align="center"> <img src="https://example.com/footer-image.jpg" alt="Footer Image" width="100%" /> </p> 
 
