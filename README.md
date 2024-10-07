@@ -36,6 +36,8 @@ Voici quelques points clés de mon parcours :
 <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" /> <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="SQL Badge" /> <img src="https://img.shields.io/badge/Machine%20Learning-F76B07?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning Badge" /> <img src="https://img.shields.io/badge/Data%20Science-4B0082?style=for-the-badge&logo=Data-Science&logoColor=white" alt="Data Science Badge" /> <img src="https://img.shields.io/badge/Visualisation-6495ED?style=for-the-badge&logo=visualisation&logoColor=white" alt="Data Visualisation Badge" /> </p>
 
 
+
+
 <h3 align="left">Contactez-moi :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/fabrice-paka-junior-data-scientist-dataanalyst-alternance2025-toutelafrance-teletravail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/fabrice-paka-junior-data-scientist-dataanalyst-alternance2025-toutelafrance-teletravail" height="30" width="40" /></a>
@@ -57,4 +59,3 @@ Si vous avez des questions ou souhaitez discuter de projets de Data Science, n'h
 
 <p align="center"> <em>"L'analyse des données est au cœur de l'innovation moderne. Ensemble, nous pouvons créer des solutions impactantes pour demain."</em> </p> <p align="center"> <img src="https://example.com/footer-image.jpg" alt="Footer Image" width="100%" /> </p> 
 
-v
