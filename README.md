@@ -4,9 +4,9 @@
 </p>
 
 <!-- Titre de la page -->
-<h1 align="center">Bonjour, je suis Paka Fabrice Essinam 👋</h1>
+<h1 align="center">Bonjour, je suis Paka Fabrice Essinam. Bienvenue sur mon profil. 👋</h1>
 <p align="center">
-  <em>Data Scientist en reconversion avec une expertise en physique theorique.</em>
+  <em>D en reconversion avec une expertise en physique theorique.</em>
 </p>
 
 
