@@ -4,9 +4,9 @@
 </p>
 
 <!-- Titre de la page -->
-<h1 align="center">Bonjour, je suis Paka Fabrice Essinam.👋</h1>
+<h1 align="center">Bonjour, je suis Paka Fabrice Essinam.</h1>
 <p align="center">
-  <em>Bienvenue sur mon profil.</em>
+  <em>Bienvenue sur mon profil👋.</em>
 </p>
 
 
