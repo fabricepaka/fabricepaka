@@ -19,33 +19,31 @@ Diplômé d'un double master en physique théorique et en nanoscience et nanotec
 🎯 **Objectif**
 
 Réaliser une thèse dans l'un des domaines suivants :
-
 - Physique de la matière condensée
 - Physique de la matière molle
 - Applications de l'apprentissage automatique à la physique
+- 
+Voici quelques points clés mes compétences :
 
-Voici quelques points clés de mon parcours :
 
-
-🔬 Compétences scientifiques et techniques
+🔬 **Compétences scientifiques et techniques**
 - Physique de la matière condensée : Connaissance des phénomènes fondamentaux (supraconductivité, magnétisme, transitions de phase, semi-conducteurs).
-
 - Physique statistique et mécanique quantique
 - Connaissances theoriques des méthodes expérimentales : Spectroscopie (Raman, IR, UV-Vis, etc.), diffraction des rayons X, microscopie (AFM, STM, TEM, SEM).
 - Modélisation et simulation numérique : dynamique moléculaire (MD), la théorie de la fonctionnelle de la densité (DFT) et Monte-Carlo.
 - Matériaux et nanotechnologies : Étude des cristaux, des polymères, des systèmes mésoscopiques, des matériaux 2D comme le graphène.
 
-💻 Compétences en programmation et en analyse de données
+💻 **Compétences en programmation et en analyse de données**
 - Langages de programmation : Python, Fortran, Bash.
 - Machine Learning et Data Science : Application des réseaux de neurones, de l’analyse statistique et du clustering aux systèmes physiques.
 - Logiciels spécialisés : TensorFlow, PyTorch pour la modélisation et l’apprentissage automatique.
 - Traitement de données expérimentales : Utilisation de bibliothèques comme Pandas, NumPy, SciPy, et visualisation avec Matplotlib, Seaborn.
 
-📊 Compétences analytiques et méthodologiques
+📊 **Compétences analytiques et méthodologiques**
 - Résolution de problèmes complexes : Développement de modèles théoriques et analyse quantitative des résultats.
 - Méthodologie scientifique : Rigueur dans la conception d'expériences et la validation des résultats.
 
-📝 Compétences en communication et gestion de projet
+📝 **Compétences en communication et gestion de projet**
 - Rédaction scientifique : Rédaction d’articles, rapports et thèses.
 - Travail en équipe
 
