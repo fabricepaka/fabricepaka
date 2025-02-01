@@ -22,8 +22,8 @@ Réaliser une thèse dans l'un des domaines suivants :
 - Physique de la matière condensée
 - Physique de la matière molle
 - Applications de l'apprentissage automatique à la physique
-- 
-Voici quelques points clés mes compétences :
+
+Voici quelques points clés sur mes compétences :
 
 
 🔬 **Compétences scientifiques et techniques**
