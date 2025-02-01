@@ -62,7 +62,7 @@ Voici quelques points clés mes compétences :
  <h3 align="left"> 📫 Contactez-moi :</h3>
 
 
-Si vous avez des questions ou souhaitez discuter de projets de Data Science, n'hésitez pas à me contacter !
+N'hésitez pas à me contacter si vous souhaitez discuter des possibilités de thèse! !
 
 
 <!-- Badges sociaux -->
