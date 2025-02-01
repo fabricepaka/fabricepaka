@@ -73,5 +73,5 @@ N'hésitez pas à me contacter si vous souhaitez discuter des possibilités de t
 </p>
 
 
-<p align="center"> <em>"L'analyse des données est au cœur de l'innovation moderne. Ensemble, nous pouvons créer des solutions impactantes pour demain."</em> </p> 
+<p align="center"> <em>"Les lois de la physique sont les lois coutumières de la nature."</em> </p> 
 
