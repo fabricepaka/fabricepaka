@@ -27,6 +27,7 @@ Voici quelques points clés de mon parcours :
 
 🔬 Compétences scientifiques et techniques
 ✅ Physique de la matière condensée : Connaissance des phénomènes fondamentaux (supraconductivité, magnétisme, transitions de phase, semi-conducteurs).
+
 ✅ Physique statistique et mécanique quantique
 ✅ Connaissances theoriques des méthodes expérimentales : Spectroscopie (Raman, IR, UV-Vis, etc.), diffraction des rayons X, microscopie (AFM, STM, TEM, SEM).
 ✅ Modélisation et simulation numérique : dynamique moléculaire (MD), la théorie de la fonctionnelle de la densité (DFT) et Monte-Carlo.
