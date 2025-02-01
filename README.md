@@ -13,9 +13,11 @@
 
 <!-- Présentation rapide -->
 🎓 **À propos de moi**
+
 Diplômé d'un double master en physique théorique et en nanoscience et nanotechnologie, avec une spécialisation en physique de la matière molle. Je possède des compétences solides en analyse de données et en apprentissage automatique (machine learning).
 
 🎯 **Objectif**
+
 Réaliser une thèse dans l'un des domaines suivants :
 - Physique de la matière condensée
 - Physique de la matière molle
