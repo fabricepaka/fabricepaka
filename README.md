@@ -1,71 +1,39 @@
-<!-- Bannière ou image en en-tête -->
-<p align="center">
-  <img src="https://github.com/fabricepaka/images/blob/main/emc2.png" alt="Banner Image" width="50%" />
-</p>
 
-<!-- Titre de la page -->
-<h1 align="center">Bonjour, je suis Paka Fabrice Essinam.</h1>
-<p align="center">
-  <em>Bienvenue sur mon profil👋.</em>
-</p>
+
+# Fabrice PAKA
+
+**`Artisant du numerique(Data scientist/Data analyst/Physicien/Enseignant)`**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
 
-<!-- Présentation rapide -->
-🎓 **À propos de moi**
-
-Diplômé d'un double master en physique théorique et en nanoscience et nanotechnologie, avec une spécialisation en physique de la matière molle. Je possède des compétences solides en analyse de données et en apprentissage automatique (machine learning).
-
-🎯 **Objectif**
-
-Réaliser une thèse dans l'un des domaines suivants :
-- Physique de la matière condensée
-- Physique de la matière molle
-- Applications de l'apprentissage automatique à la physique
-
-Voici quelques points clés sur mes compétences :
+Physicien de formation avec un fort intérêt pour le numérique, j’ai naturellement orienté mon parcours vers les sciences des données, une discipline à la croisée des mathématiques et de l’informatique. Passionné par l’exploitation de la puissance des données pour résoudre des problématiques concrètes en entreprise, je m’investis pleinement dans cet univers.
+Dans le cadre de mon objectif de devenir data scientist, je me forme activement à travers des bootcamps, des formations en alternance, ainsi que par l’écoute de podcasts spécialisés. Je partage également mon apprentissage en documentant et publiant la plupart des projets que je réalise sur ce GitHub.
 
 
-🔬 **Compétences scientifiques et techniques**
-- Physique de la matière condensée : Connaissance des phénomènes fondamentaux (supraconductivité, magnétisme, transitions de phase, semi-conducteurs).
-- Physique statistique et mécanique quantique
-- Connaissances theoriques des méthodes expérimentales : Spectroscopie (Raman, IR, UV-Vis, etc.), diffraction des rayons X, microscopie (AFM, STM, TEM, SEM).
-- Modélisation et simulation numérique : dynamique moléculaire (MD), la théorie de la fonctionnelle de la densité (DFT) et Monte-Carlo.
-- Matériaux et nanotechnologies : Étude des cristaux, des polymères, des systèmes mésoscopiques, des matériaux 2D comme le graphène.
+Voici quelques points clés de mon parcours :
 
-💻 **Compétences en programmation et en analyse de données**
-- Langages de programmation : Python, Fortran, Bash.
-- Machine Learning et Data Science : Application des réseaux de neurones, de l’analyse statistique et du clustering aux systèmes physiques.
-- Logiciels spécialisés : TensorFlow, PyTorch pour la modélisation et l’apprentissage automatique.
-- Traitement de données expérimentales : Utilisation de bibliothèques comme Pandas, NumPy, SciPy, et visualisation avec Matplotlib, Seaborn.
+- 🔬 **Formation scientifique** : Master en Nanosciences et Nanotechnologies, Master en physique theorique
+- 💻 **Data Science** : Expertise en **Python**, **Machine Learning**, et **Data Visualisation**.
+- 🤖 **Machine Learning & AI** : NLP, classification, regression, clustering, détection d'anomalies, reduction de dimension, deep learning, time series models, .
+- 🎯 **Objectif** : Contribuer à des projets innovants en exploitant les données pour des avancées technologiques.
 
-📊 **Compétences analytiques et méthodologiques**
-- Résolution de problèmes complexes : Développement de modèles théoriques et analyse quantitative des résultats.
-- Méthodologie scientifique : Rigueur dans la conception d'expériences et la validation des résultats.
-
-📝 **Compétences en communication et gestion de projet**
-- Rédaction scientifique : Rédaction d’articles, rapports et thèses.
-- Travail en équipe
-
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+<br><br>
 
 ---
 ### 🔧 Technologies et Outils
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://github.com/fortran-lang/fortran-lang.org/blob/master/assets/img/fortran-logo.svg" alt="fortran" width="40" height="40"/> </a> </p>
-
-
-
-
-	
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 ---
+
 
 
  <h3 align="left"> 📫 Contactez-moi :</h3>
 
 
-N'hésitez pas à me contacter si vous souhaitez discuter des possibilités de thèse! !
+Si vous avez des questions ou souhaitez discuter de projets de Data Science, n'hésitez pas à me contacter !
 
 
 <!-- Badges sociaux -->
@@ -76,5 +44,38 @@ N'hésitez pas à me contacter si vous souhaitez discuter des possibilités de t
 </p>
 
 
-<p align="center"> <em>"Les lois de la physique sont les lois coutumières de la nature." Stanislaw Jerzy Lec</em> </p>
+<p align="center"> <em>"L'analyse des données est au cœur de l'innovation moderne. Ensemble, nous pouvons créer des solutions impactantes pour demain."</em> </p> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
