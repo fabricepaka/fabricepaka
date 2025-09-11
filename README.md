@@ -10,10 +10,11 @@ Physicien de formation avec un fort intérêt pour le numérique, j’ai naturel
 Dans le cadre de mon objectif de devenir data scientist, je me forme activement à travers des bootcamps, des formations en alternance, ainsi que par l’écoute de podcasts spécialisés. Je partage également mon apprentissage en documentant et publiant la plupart des projets que je réalise sur ce GitHub.
 
 
-Voici quelques points clés de mon parcours :
+Voici quelques points clés de mon parcours :*
+
 
 - 🔬 **Formation scientifique** : Master en Nanosciences et Nanotechnologies, Master en physique theorique
-- 💻 **Data Science** : Expertise en **Python**, **Machine Learning**, et **Data Visualisation**.
+- 💻 **Data Science** : Formation data science de niveau Bac+5,Expertise en **Python**, **Machine Learning**, et **Data Visualisation**.
 - 🤖 **Machine Learning & AI** : NLP, classification, regression, clustering, détection d'anomalies, reduction de dimension, deep learning, time series models, .
 - 🎯 **Objectif** : Contribuer à des projets innovants en exploitant les données pour des avancées technologiques.
 
