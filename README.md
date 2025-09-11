@@ -14,9 +14,9 @@ Voici quelques points clés de mon parcours :*
 
 
 - 🔬 **Formation scientifique** : Master en Nanosciences et Nanotechnologies, Master en physique theorique
-- 💻 **Data Science** : Formation data science de niveau Bac+5,Expertise en **Python**, **Machine Learning**, et **Data Visualisation**.
+- 💻 **Data Science** : Formation data science de niveau Bac+5, Savoir-faire en **Python**, **Machine Learning**, et **Data Visualisation**.
 - 🤖 **Machine Learning & AI** : NLP, classification, regression, clustering, détection d'anomalies, reduction de dimension, deep learning, time series models, .
-- 🎯 **Objectif** : Contribuer à des projets innovants en exploitant les données pour des avancées technologiques.
+- 🎯 **Objectif** : Contribuer à des projets innovants en exploitant les données pour résoudre des problèmes.
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 <br><br>
